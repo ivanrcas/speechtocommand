@@ -8,7 +8,7 @@
 
 **Objetivo: Reconocer comandos de voz simples en inglés mediante una interfaz que registra la voz y ejecuta acciones de acuerdo a comandos detectados en audios grabados, facilitando la interacción y accesibilidad con dispositivos inteligentes.**  
 
-- Dataset: Cerca de 65k audios (formato WAV) de comandos grabados en inglés por diferentes tonos de voz, cada uno con duración de un segundo, dividido en 30 clases (comandos).
+- Dataset: Cerca de 65k audios (formato WAV) de comandos grabados en inglés por diferentes tonos de voz, cada uno con duración de un segundo, dividido en 30 clases (tipos de comandos).
 - Algoritmos utilizados: Arquitectura - DNN, RNN, LSTM y GRU.
 
 
