@@ -12,4 +12,4 @@
 - Algoritmos utilizados: Arquitectura - DNN, RNN, LSTM y GRU.
 
 
-[(code)](proyecto/notebook_speech_to_command_IA2.ipynb) [(code colab)](https://colab.research.google.com/drive/1yxOtaj6W-wcMct1Lae_9Oli653EbmkS6) [(video)](https://www.youtube.com/watch?v=eDRIdYVA9E4) [(+info)](proyecto/slides_speech_to_command_IA2.pdf)
+[(code)](proyecto/notebook_speech_to_command_IA2.ipynb) [(code colab)](https://colab.research.google.com/drive/1yxOtaj6W-wcMct1Lae_9Oli653EbmkS6) [(video)](https://www.youtube.com/watch?v=eDRIdYVA9E4) [(poster)](proyecto/poster_speech_to_command_IA2.pdf) [(+info)](proyecto/slides_speech_to_command_IA2.pdf)
